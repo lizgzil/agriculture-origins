@@ -10,7 +10,7 @@ This code describes both models - switching between them simply relies you to ch
 
 This code also allows for the ability to randomly chose parameter values for each simulation you run it for, in our analysis we frequently run the model thousands of times with each run of the model using a randomly chosen set of parameters - this is part of the fitting to idealised outcomes method (FIO) described in Section 2.4.1 of my thesis 'Evolutionary Models for the Origins of Agriculture'.
 
-![A visualisation of two iterations of the model](./exampleofmodel.png)
+![A visualisation of two iterations of the model](../exampleofmodel.png)
 
 ## Set-up
 
