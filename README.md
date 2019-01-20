@@ -35,3 +35,7 @@ There are data folders and analysis folders for each of these. Model settings ca
 
 Please message me on Github, email me at e.gallagher.12@ucl.ac.uk or [download the data](https://figshare.com/account/home#/projects/58973) directly from figshare.
 
+## Contributions
+
+I designed the models and the analysis of them with [Mark Thomas](https://www.ucl.ac.uk/mace-lab/people/mark) and [Stephen Shennan](https://www.ucl.ac.uk/archaeology/people/academic/stephen-shennan) from UCL.
+
