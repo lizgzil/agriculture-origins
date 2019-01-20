@@ -2,6 +2,14 @@
 
 In this analysis folder we use R to analyse the model results given in `data/The fast and the fit paper`. This data was used in the results of The fast and the fit paper (link to follow), so any figure numbers mentioned in here refer to those in that paper.
 
+## Libraries
+
+You will need the R libraries [mclust](https://cran.r-project.org/web/packages/mclust/index.html) and [Hmisc](https://cran.r-project.org/web/packages/Hmisc/index.html). You will also need to install the Wes Anderson colour palette ([github link](https://github.com/karthik/wesanderson)) with
+`install.packages("wesanderson")`
+or
+`devtools::install_github("karthik/wesanderson")`
+
+
 ## Data
 
 Please message me on Github, email me at e.gallagher.12@ucl.ac.uk or [download the data](https://figshare.com/account/projects/58973/articles/7609763) directly from figshare.
