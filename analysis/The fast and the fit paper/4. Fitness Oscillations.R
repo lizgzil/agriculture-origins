@@ -215,6 +215,8 @@ for (f in 1:nrow(mobsallhi))
 # ------------------------------------------------------------------
 # 4. Compare the spread measures for high and low oscillations - histograms - Figure S8 and S9
 
+dateuse = "foragingmodel17May2018_lowhighmoballinfo";
+
 
 pdf(paste("figures/rangesovertimelow_",dateuse,".pdf",sep=""), width = 9, height = 2, bg = "white")
 par(mfrow=c(1,3), cex.lab=1.5, mar = c(5,6,1,2), cex.axis= 1.2)
