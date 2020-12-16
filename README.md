@@ -33,7 +33,7 @@ There are data folders and analysis folders for each of these. Model settings ca
 
 ## Data
 
-Please message me on Github, email me at e.gallagher.12@ucl.ac.uk or [download the data](https://figshare.com/account/home#/projects/58973) directly from figshare.
+Please message me on Github or [download the data](https://figshare.com/account/home#/projects/58973) directly from figshare.
 
 ## Contributions
 
